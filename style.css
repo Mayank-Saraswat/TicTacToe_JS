@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-div {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 25vh;
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+
+.box {
+    width: 25%;
+    margin: 1%;
+    background-color: green;
+    color: #fff;
+    border-radius: 3px;
+    border: none;
+}
+
+.reset-btn {
+    margin: 20px;
+    border: none;
+    border-radius: 3px;
+    background: brown;
+    padding: 5px;
+    color: #fff;
+}
+
+p {
+    font-size: 20px;
+    color: crimson;
+    font-weight: bold;
+    padding: 10px;
+}
